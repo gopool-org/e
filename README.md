@@ -1,5 +1,5 @@
-# e
+# Proxy
 
-主要用来记录 Gopool.org 扶贫端口用户提出的问题。
+主要用来记录 Gopool.org 中转端口用户提出的问题。
 
-PS：主要是通过定向捐赠代码扶贫 KASPA 项目，
+PS：主要是通过捐赠代码/USDT/KAS等帮助 KASPA 项目的发展。
